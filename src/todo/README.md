@@ -1,6 +1,6 @@
 # 📋 Todo App
 
-A simple console-based task management application written in plain Java — no frameworks, no external dependencies.
+A simple console-based task management application written in plain Java.
 
 ## Features
 
